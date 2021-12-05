@@ -26,7 +26,8 @@ The objects we built in this project those are listed below:
 16. Stars.
 17. Fence.
 18. Field.
-    ![VIEW!]{images/1.jpg}
+    <br/>
+    ![VIEW!](images/1.jpg)
 
 There were also some interactions to enhance the beauty of the scenery. Those are-
 
@@ -39,4 +40,4 @@ There were also some interactions to enhance the beauty of the scenery. Those ar
 7. Floating Clouds.
 8. Rainy Effect.
 9. Sound Effects.
-   ![VIEW!]{images/2.jpg}
+   ![VIEW!](images/2.jpg)
